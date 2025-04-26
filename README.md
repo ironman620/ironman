@@ -1,6 +1,6 @@
 class simple{
-public ststic void main (strind arg[]){
-system.out.prinln("hello world");
+public static void main (string arg[]){
+system.out.prinln("Hello world");
 }
 }
 
